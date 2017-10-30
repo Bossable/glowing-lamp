@@ -1,2 +1,2 @@
 # glowing-lamp
-IBM bluemix toolchain test #1
+IBM bluemix toolchain test #2
